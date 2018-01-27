@@ -1,0 +1,25 @@
+nav ul {
+  list-style-type:none;
+}
+
+nav ul li{
+  display: inline;
+ </*border: 2px solid green;
+  padding: 10px 10 10px 10;
+  margin:0 10px;*/>
+}
+
+span{
+  float:right;
+}
+
+.icon{
+  width:30px;
+  height:30px;
+}
+
+p{
+  background-color: #bcf4f0;
+margin:0 auto;
+width:75%
+}
