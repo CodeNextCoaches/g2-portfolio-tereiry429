@@ -13,13 +13,66 @@ span{
   float:right;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header img{
+  width: 20%
+  height:auto;
+  float: right;
+  margin: 0 30px 30px 30px;
+}
+
 .icon{
+  background-color: white;
   width:30px;
-  height:30px;
+opacity: 0.85;
+transition: opacity 0,5s;
 }
 
 p{
-  background-color: #bcf4f0;
+  background-color: #00a9ff.
 margin:0 auto;
 width:75%
+}
+
+.project-image {
+  margin: 0 10px;
+  width:200px;
+  height: 200px;
+}
+
+.project-image:hover{
+  box-shadow: 0 0 5px 5px #555555;
+  opacity:1.0;
 }
